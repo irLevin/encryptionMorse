@@ -1,0 +1,28 @@
+body{
+    background:#000;
+    color: #fff;
+}
+h1{
+    text-align: center;
+}
+form.input-string{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+
+}
+#encryptStr,#decryptStr{
+    border-radius: 5px;
+    padding: 0 15px;
+}
+#encryptionType,#decryptionType{
+     margin-bottom: 30px;
+     border-radius: 5px;
+     padding: 0 15px;
+ }
+#submit{
+    border-radius: 5px;
+    background: #00b0fb;
+    color: #fff;
+    border: 0;
+}
